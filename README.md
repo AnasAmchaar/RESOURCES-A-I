@@ -20,7 +20,7 @@ The repository is structured into several folders corresponding to different tec
 
 1. Clone the repository to your computer:
    bash
-   git clone git@github.com:AnasAmchaar/RESOURCES-ENSAM.git
+   git clone https://github.com/AnasAmchaar/RESOURCES-ENSAM.git
    
 2. Access the folder of your choice:
    bash
